@@ -1,5 +1,9 @@
-    Markdown is a simple markup language use for formating text. All Markdown Files ends with .md. It gives ways to write text that can be compiled to HTML. 
-                                        Basic Markdown Syntax
+ # MARKDOWN  
+## Introduction
+ Markdown is a simple markup language use for formating text. All Markdown Files ends with .md. It gives ways to write text that can be compiled to HTML. 
+ ###                                      Basic Markdown Syntax
+Below is a list of the basic markdown features or syntax you need to know as beginner in programming
+
 | Element | Markdown Syntax| Meaning |
 |---------|---------------:|---------|
 |Heading  |  #,##,###,####,  | creates a heading |
